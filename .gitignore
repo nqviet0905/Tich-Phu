@@ -1,0 +1,22 @@
+# Android Studio
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+.kotlin/
+
+# Secrets
+.env
+.env.*
+!.env.example
+credentials/
+**/service-account*.json
+**/*service-account*.json
+
+# PHP dependencies
+backend-api/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db

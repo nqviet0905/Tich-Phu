@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Tích Phú</string>
+
+    <string name="default_web_client_id">
+        798148238591-fek7f21r7752no3c2174dgn77e27dbu5.apps.googleusercontent.com
+    </string>
+
+</resources>
