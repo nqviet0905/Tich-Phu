@@ -1,4 +1,4 @@
-# Tích Phú – Personal Finance Management App
+# Tích Phú 
 
 Ứng dụng Android hỗ trợ quản lý thu chi và lập kế hoạch tài chính cá nhân, giúp người dùng theo dõi giao dịch, quản lý ngân sách và nắm bắt tình hình tài chính thông qua thống kê trực quan.
 
