@@ -42,7 +42,7 @@
 
 
 
-```text
+
 
 Tich-Phu/
 
@@ -52,7 +52,7 @@ Tich-Phu/
 
 └── .gitignore
 
-```
+
 
 
 
@@ -100,7 +100,7 @@ Tich-Phu/
 
 
 
-\*\*Việt Nguyễn\*\*
+Nguyễn Quốc Việt
 
 
 
